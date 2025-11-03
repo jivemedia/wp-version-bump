@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+
+# User config
+bump.config.js
